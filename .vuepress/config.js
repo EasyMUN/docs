@@ -33,4 +33,7 @@ module.exports = {
     editLinks: true,
     editLinkText: '请帮我们完善文档！',
   },
+
+  serviceWorker: true,
+  evergreen: true,
 }
