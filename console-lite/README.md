@@ -13,7 +13,7 @@ Console Lite 拥有以下<small>十分厉害的</small>的功能：
 
 ## 下载
 
-请前往 Console Lite 网站主页下载最新版本。
+请前往 [Console Lite 网站主页](https://easymun.com/console-lite/)下载最新版本。
 
 安装 Console Lite 十分简单，下载后开包即用。
 
