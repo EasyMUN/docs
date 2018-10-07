@@ -8,6 +8,7 @@ module.exports = {
       { text: 'LimeGlass', link: '/limeglass/' },
       { text: 'DocFMT', link: '/docfmt/' },
       { text: 'Contributing', link: '/contributing/', },
+      { text: 'EasyMUN', link: 'https://easymun.com', },
       { text: 'GitHub', link: 'https://github.com/EasyMUN', },
     ],
 
