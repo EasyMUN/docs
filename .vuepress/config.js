@@ -37,4 +37,5 @@ module.exports = {
 
   serviceWorker: true,
   evergreen: true,
+  ga: 'UA-127071052-1',
 }
